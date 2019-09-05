@@ -2,7 +2,7 @@
   <a href="https://nodejs.org/">
     <img
       alt="Node.js"
-      src="https://gitlab.com/zatosource/zato-gfx/uploads/a2ab25723e6dbab494dd0993293b8416/GitHub_Banner_-Draft_01_-_V2.png"
+      src="https://gitlab.com/zatosource/zato-gfx/uploads/96001c0f9a654809fc1b2f5d80a4994e/GitHub-Banner--Draft-02---03.png"
       width="882"
     />
   </a>
