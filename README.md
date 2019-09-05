@@ -3,7 +3,7 @@
     <img
       alt="Node.js"
       src="https://gitlab.com/zatosource/zato-gfx/uploads/a2ab25723e6dbab494dd0993293b8416/GitHub_Banner_-Draft_01_-_V2.png"
-      width="400"
+      width="882"
     />
   </a>
 </p>
